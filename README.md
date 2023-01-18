@@ -1,4 +1,4 @@
-# ColoRandom
+# [ColoRandom](https://jfogiato.github.io/coloRandom/)
 
 ## Abstract
 [//]: <>
